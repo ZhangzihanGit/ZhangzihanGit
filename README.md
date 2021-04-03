@@ -1,14 +1,14 @@
-## 👋 Hey, I'm Zihan :relaxed:
+## 👋 Hey, I'm Zihan
 
-I'm currently a master student studying software engineering at the University of Melbourne, aiming to be a full-stack developer in the future :muscle:. I've got some hands-on experiences on Web development :computer: and trying to enhance them furthermore!
+I'm a PhD student at UTS and Vodafone Australia, aiming to study as hard as I can :muscle:.
 
-### ✔️ Plans for 2020
-- :one: Learn backend development using [Express](https://expressjs.com/)
-- :two: Enhance database skills
-- :three: Build up my personal portfolio website
-- :four: Learn AWS deployment
+### ✔️ Plans for 2021
+- :one: AWS
+- :two: Data warehouse
+- :three: ML/NLP
+- :four: Literature Review
 
-### :triangular_ruler: Some Languages and Tools that I Use
+### :triangular_ruler: Some Languages and Tools that I Used
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![css3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
