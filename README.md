@@ -2,8 +2,9 @@
 
 I'm a PhD student at [UTS](https://www.uts.edu.au/) and [TPG Telecom Australia](https://www.tpgtelecom.com.au/), research fields in Dialogues and Conversational AI.
 
-### ✔️ Plans for 2022
-:one: AWS MLOps
+### ✔️ Plans for 2023
+1️⃣: Cloud + MLOps
 
-:two: Databricks
+2️⃣: Databricks
 
+3️⃣: NLP
