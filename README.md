@@ -1,10 +1,10 @@
 ## 👋 Hey, I'm Zihan
 
-I'm a PhD student at [UTS](https://www.uts.edu.au/) and [TPG Telecom Australia](https://www.tpgtelecom.com.au/), research fields in Dialogues and Conversational AI.
+I'm a third-year [Industry Doctorate Program (IDP)](https://www.uts.edu.au/research-and-teaching/graduate-research/future-research-students/uts-research-degrees/industry-doctorate-program) PhD student at the [University of Technology Sydney (UTS) NLP group](https://utsnlp.github.io/), sponsored by the industry partner [TPG Telecom](https://www.tpgtelecom.com.au/). I have broad research interests centred around natural language processing (NLP). As an IDP PhD student, I am particularly passionate about developing NLP systems that are practical, robust, efficient, and can be applied to the industry.
 
-### ✔️ Plans for 2023
-1️⃣: Cloud + MLOps
+Recently, my research focus has moved towards Large Language Models (LLMs) and exploring how to use them in production to drive business, including efficient and robust Retrieval-Augmented Generation (RAG), Question Answering (QA), and Dialogue systems.
 
-2️⃣: Databricks
+## Contact
 
-3️⃣: NLP
+- Personal Website: [https://zhangzihangit.github.io/](https://zhangzihangit.github.io/)
+- LinkedIn: [https://www.linkedin.com/in/zihan-zhang-a40855172/](https://www.linkedin.com/in/zihan-zhang-a40855172/)
